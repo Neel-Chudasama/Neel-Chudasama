@@ -4,7 +4,7 @@ A Mechanical engineer turned Data scientist from the UK - fascinated by Data and
 
 - I am currently working on a project that detects road lane lines for autonomous cars.
 - Currently learning React and Ruby
-- Proficient in Python and SQL
+- Proficient in Python, Matlab, Hadoop and SQL
 
 
 ### Visitor count
