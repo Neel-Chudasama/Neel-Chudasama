@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+## About me...
 
 ```python
 class DataScientist:
