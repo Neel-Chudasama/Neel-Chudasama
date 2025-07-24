@@ -67,7 +67,7 @@ class DataScientist:
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Status: 🔄 Active Development
 Impact: Streamlines property hunting with 90% time reduction
 ```
 
-### 📈 Data Science Portfolio
+### Data Science Portfolio
 **End-to-End ML Solutions**
 
 ```yaml
