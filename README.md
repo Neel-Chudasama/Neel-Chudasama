@@ -135,10 +135,10 @@ Highlights: Predictive Analytics | Classification | Regression | Time Series
 
 ```mermaid
 graph LR
-    A[Data Science Core] --> B[Full-Stack Development]
-    B --> C[React Frontend]
-    C --> D[Ruby Backend]
-    D --> E[Complete ML Applications]
+    A[<b>Data Science Core</b>] --> B[<b>Full-Stack Development</b>]
+    B --> C[<b>React Frontend</b>]
+    C --> D[<b>Ruby Backend</b>]
+    D --> E[<b>Complete ML Applications</b>]
     
     style A fill:#ff6b6b,color:#000000
     style B fill:#4ecdc4,color:#000000
