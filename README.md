@@ -2,7 +2,7 @@
 
 I am Data scientist from the UK - fascinated by Data and the endless possibilities we can do with it. 
 
-- I am currently working on a project that notifies me when a house is for sale and send an email to the landlord automatically.
+- I am currently working on a project that notifies me when a house is for sale and it sends an email to the landlord automatically.
 - Currently learning React and Ruby.
 - Proficient in Python, Matlab, Hadoop and SQL.
 
