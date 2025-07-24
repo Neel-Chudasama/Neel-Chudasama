@@ -153,7 +153,7 @@ graph LR
 
 <div align="center">
 
-** Actively seeking opportunities in Data Science & Machine Learning**
+**Actively seeking opportunities in Data Science & Machine Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-chudasama)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/Neel-Chudasama)
