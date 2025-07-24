@@ -71,7 +71,7 @@ class DataScientist:
 
 <div align="center">
 
-### 🏠 Smart Real Estate Notifier
+### Smart Real Estate Notifier
 **Automated Property Alert System**
 
 ```yaml
@@ -79,6 +79,16 @@ Description: Intelligent system that monitors property listings and automaticall
 Tech Stack: Python | Web Scraping | Email Automation | Data Processing
 Status: 🔄 Active Development
 Impact: Streamlines property hunting with 90% time reduction
+```
+
+### Automated Morning Report
+**Personalised Weather & Commute Notifier**
+
+``` yaml
+Description: Scheduled daily system that retrieves local weather data and TfL tube line status, sending a tailored morning report with clothing advice and commute updates  
+Tech Stack: Python | APIs (Weather, TfL) | Pushover | GitHub Actions  
+Status: ✅ Live  
+Impact: Enhances daily preparedness with personalised alerts, reducing time spent checking multiple sources before commuting
 ```
 
 ### Data Science Portfolio
@@ -107,7 +117,7 @@ Highlights: Predictive Analytics | Classification | Regression | Time Series
 
 ---
 
-## 🎓 What I Bring to the Table
+## What I Bring to the Table
 
 <div align="center">
 
@@ -121,7 +131,7 @@ Highlights: Predictive Analytics | Classification | Regression | Time Series
 
 ---
 
-## 🌟 Current Learning Journey
+## Current Learning Journey
 
 ```mermaid
 graph LR
@@ -139,7 +149,7 @@ graph LR
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -152,8 +162,6 @@ graph LR
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-
-**💡 "In Data We Trust, In Insights We Deliver"**
 
 </div>
 
