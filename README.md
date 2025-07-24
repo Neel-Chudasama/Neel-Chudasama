@@ -1,4 +1,4 @@
-# Neel Chudasama | Data Scientist 🚀
+# Neel Chudasama | Data Scientist & ML Engineer 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Insights;Building+Intelligent+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
