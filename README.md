@@ -1,10 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you I'm Neel.</h1>
 
-A Mechanical engineer turned Data scientist from the UK - fascinated by Data and the endless possibilities we can do with it. 
+I am Data scientist from the UK - fascinated by Data and the endless possibilities we can do with it. 
 
-- I am currently working on a project that detects road lane lines for autonomous cars.
+- I am currently working on a project that notifies me when a house is for sale and send an email to the landlord automatically.
 - Currently learning React and Ruby.
 - Proficient in Python, Matlab, Hadoop and SQL.
+
 
 
 ### 📫 Reach me at 
