@@ -1,4 +1,4 @@
-# Neel Chudasama | Data Scientist
+# Neel Chudasama | Data Scientist 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Insights;Building+Intelligent+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -20,10 +20,9 @@
 class DataScientist:
     def __init__(self):
         self.name = "Neel Chudasama"
-        self.location = "United Kingdom 🇬🇧"
-        self.role = "Data Scientist & ML Engineer"
-        self.passion = "Transforming raw data into actionable insights"
-        self.motto = "Data tells stories, I help them speak"
+        self.location = "London 🇬🇧"
+        self.role = "Data Scientist"
+        self.passions = "Data, Football, Cricket"
     
     def current_focus(self):
         return {
@@ -36,7 +35,7 @@ class DataScientist:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
