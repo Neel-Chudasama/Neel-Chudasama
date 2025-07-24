@@ -140,11 +140,11 @@ graph LR
     C --> D[Ruby Backend]
     D --> E[Complete ML Applications]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#f9ca24
-    style E fill:#6c5ce7
+    style A fill:#ff6b6b,color:#000000
+    style B fill:#4ecdc4,color:#000000
+    style C fill:#45b7d1,color:#000000
+    style D fill:#f9ca24,color:#000000
+    style E fill:#6c5ce7,color:#ffffff
 ```
 
 ---
