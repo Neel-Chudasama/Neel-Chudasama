@@ -34,7 +34,7 @@ class DataScientist:
 
 ---
 
-## Tech arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -67,7 +67,7 @@ class DataScientist:
 
 ---
 
-## Featured projects
+## Featured Projects
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Highlights: Predictive Analytics | Classification | Regression | Time Series
 
 ---
 
-## 📊 GitHub analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neel-Chudasama&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
