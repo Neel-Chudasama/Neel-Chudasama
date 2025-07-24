@@ -8,7 +8,6 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Neel-Chudasama?style=social)](https://github.com/Neel-Chudasama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neel-chudasama)
-[![Profile Views](https://komarev.com/ghpvc/?username=Neel-Chudasama&color=brightgreen&style=flat-square)](https://github.com/Neel-Chudasama)
 
 </div>
 
