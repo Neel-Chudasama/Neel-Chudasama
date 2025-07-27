@@ -75,7 +75,7 @@ class DataScientist:
 **Automated Property Alert System**
 
 ```yaml
-Description: Intelligent system that monitors property listings and automatically sends personalized emails to landlords
+Description: Intelligent system that monitors property listings and automatically sends personalised emails to landlords
 Tech Stack: Python | Web Scraping | Email Automation | Data Processing
 Status: 🔄 Active Development
 Impact: Streamlines property hunting with 90% time reduction
@@ -121,11 +121,11 @@ Highlights: Predictive Analytics | Classification | Regression | Time Series
 
 <div align="center">
 
-| 🔍 **Data Analysis** | 🤖 **Machine Learning** | 📊 **Visualization** | 🔧 **Automation** |
+| 🔍 **Data Analysis** | 🤖 **Machine Learning** | 📊 **Visualisation** | 🔧 **Automation** |
 |:---:|:---:|:---:|:---:|
 | Advanced statistical analysis | Supervised & Unsupervised ML | Interactive dashboards | Process automation |
 | Data cleaning & preprocessing | Deep learning models | Data storytelling | ETL pipelines |
-| Hypothesis testing | Model optimization | Business intelligence | Workflow optimization |
+| Hypothesis testing | Model optimisation | Business intelligence | Workflow optimisation |
 
 </div>
 
